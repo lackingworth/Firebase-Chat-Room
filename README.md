@@ -1,4 +1,4 @@
-# firebase-chat
+# Firebase-Chat-Room
 
 ## Project setup
 ```
